@@ -1,0 +1,68 @@
+.col {
+	height: 120px;
+}
+
+.color {
+	height: 230px;
+	cursor: pointer;
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 30px;
+	text-shadow: 5px 2px 10px #ccc;
+}
+.escudo {
+	display: block;
+	background: url('../imagenes/escudo_dominicano.png') no-repeat;
+	background-position: center;
+	background-size: 66%;
+	left: 4px;
+	cursor: pointer;
+}
+
+.azul {
+	background-color: #002d61 !important;
+}
+
+.rojo {
+	background-color: #cd1026 !important;
+}
+
+#menu {
+	height: 65px;
+	line-height: 55px;
+}
+
+#menu ul {
+	text-decoration: none;
+	list-style: none;
+}
+
+#menu ul li a {
+	color: white;
+	font-size: 20px;
+}
+
+#contenedor-parrafo p {
+	font-family: 'Opens-Sans', 'Sans-serif';
+	font-size: 24px;
+	line-height: 43px;
+	color: black;
+	padding: 10px;
+	border-bottom: 2px solid #ccc;
+	box-shadow: 0px 0px 10px #ccc;
+	text-align: center;
+}
+
+#Parr-escudo {
+	text-align: justify !important;
+	padding: 15px;
+}
+
+.footer {
+	height: 50px;
+	line-height: 50px;
+	font-size: 20px;
+	color: white;
+}
